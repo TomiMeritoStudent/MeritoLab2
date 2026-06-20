@@ -2,6 +2,7 @@
 Module providing basic calculator functions.
 """
 
+
 def add(a, b):
     """
     Add two numbers and return the result.
